@@ -1,0 +1,645 @@
+{
+    "attributes": [],
+    "builtins": [],
+    "data": [
+        "0x480680017fff8000",
+        "0x4",
+        "0x480680017fff8000",
+        "0x5",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x4",
+        "0x480680017fff8000",
+        "0x5",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x4",
+        "0x480680017fff8000",
+        "0x5",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x4",
+        "0x480680017fff8000",
+        "0x5",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x4",
+        "0x480680017fff8000",
+        "0x5",
+        "0x208b7fff7fff7ffe",
+        "0x1104800180018000",
+        "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffffc",
+        "0x208b7fff7fff7ffe"
+    ],
+    "debug_info": {
+        "file_contents": {},
+        "instruction_locations": {
+            "0": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo1"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 12,
+                    "end_line": 2,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 11,
+                    "start_line": 2
+                }
+            },
+            "2": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo1"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 15,
+                    "end_line": 2,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 14,
+                    "start_line": 2
+                }
+            },
+            "4": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo1"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 16,
+                    "end_line": 2,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 2
+                }
+            },
+            "5": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo2"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 13,
+                    "start_line": 7
+                }
+            },
+            "7": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo2"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 19,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 18,
+                    "start_line": 7
+                }
+            },
+            "9": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo2"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 7
+                }
+            },
+            "10": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo3"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 12
+                }
+            },
+            "12": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo3"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 13,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 13
+                }
+            },
+            "14": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo3"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 6,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 14
+                }
+            },
+            "15": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo4"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 19,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 19
+                }
+            },
+            "17": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo4"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 20,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 20
+                }
+            },
+            "19": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo4"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 30,
+                    "end_line": 21,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 21
+                }
+            },
+            "20": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo5"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 26,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 26
+                }
+            },
+            "22": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo5"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 27,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 27
+                }
+            },
+            "24": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo5"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 30,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 28
+                }
+            },
+            "25": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 9,
+                    "end_line": 32,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 32
+                }
+            },
+            "27": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 4
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 12,
+                    "end_line": 33,
+                    "input_file": {
+                        "filename": "return_tuple.cairo"
+                    },
+                    "start_col": 3,
+                    "start_line": 33
+                }
+            }
+        }
+    },
+    "hints": {},
+    "identifiers": {
+        "__main__.foo1": {
+            "decorators": [],
+            "pc": 0,
+            "type": "function"
+        },
+        "__main__.foo1.Args": {
+            "full_name": "__main__.foo1.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo1.ImplicitArgs": {
+            "full_name": "__main__.foo1.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo1.Return": {
+            "full_name": "__main__.foo1.Return",
+            "members": {
+                "a": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "b": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 2,
+            "type": "struct"
+        },
+        "__main__.foo1.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.foo2": {
+            "decorators": [],
+            "pc": 5,
+            "type": "function"
+        },
+        "__main__.foo2.Args": {
+            "full_name": "__main__.foo2.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo2.ImplicitArgs": {
+            "full_name": "__main__.foo2.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo2.Return": {
+            "full_name": "__main__.foo2.Return",
+            "members": {
+                "a": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "b": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 2,
+            "type": "struct"
+        },
+        "__main__.foo2.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.foo3": {
+            "decorators": [],
+            "pc": 10,
+            "type": "function"
+        },
+        "__main__.foo3.Args": {
+            "full_name": "__main__.foo3.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo3.ImplicitArgs": {
+            "full_name": "__main__.foo3.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo3.Return": {
+            "full_name": "__main__.foo3.Return",
+            "members": {
+                "a": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "b": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 2,
+            "type": "struct"
+        },
+        "__main__.foo3.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.foo4": {
+            "decorators": [],
+            "pc": 15,
+            "type": "function"
+        },
+        "__main__.foo4.Args": {
+            "full_name": "__main__.foo4.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo4.ImplicitArgs": {
+            "full_name": "__main__.foo4.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo4.Return": {
+            "full_name": "__main__.foo4.Return",
+            "members": {
+                "a": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "b": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 2,
+            "type": "struct"
+        },
+        "__main__.foo4.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.foo5": {
+            "decorators": [],
+            "pc": 20,
+            "type": "function"
+        },
+        "__main__.foo5.Args": {
+            "full_name": "__main__.foo5.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo5.ImplicitArgs": {
+            "full_name": "__main__.foo5.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo5.Return": {
+            "full_name": "__main__.foo5.Return",
+            "members": {
+                "a": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "b": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                }
+            },
+            "size": 2,
+            "type": "struct"
+        },
+        "__main__.foo5.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.main": {
+            "decorators": [],
+            "pc": 25,
+            "type": "function"
+        },
+        "__main__.main.Args": {
+            "full_name": "__main__.main.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.ImplicitArgs": {
+            "full_name": "__main__.main.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.Return": {
+            "full_name": "__main__.main.Return",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        }
+    },
+    "main_scope": "__main__",
+    "prime": "0x800000000000011000000000000000000000000000000000000000000000001",
+    "reference_manager": {
+        "references": []
+    }
+}
